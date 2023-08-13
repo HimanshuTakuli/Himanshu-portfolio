@@ -1,2 +1,2 @@
-# Himanshu-portfolio
-My initial project.
+# Lesson1
+I am learning new things regarding web devlopment.
