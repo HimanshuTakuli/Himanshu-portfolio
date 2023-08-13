@@ -1,1 +1,2 @@
-This is my portfolio in making I am currently learning node JS and vs code with git and github
+# Himanshu-portfolio
+My initial project.
